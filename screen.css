@@ -101,6 +101,8 @@ footer {
   #page {
     padding-left: 19.04761905%;
     padding-right: 19.04761905%;
+    font-size: 1.2222222222em; /* 18px / 16px */
+    line-height: 1.1818181818em; /* 22px / 18px */
   }
 }
 
